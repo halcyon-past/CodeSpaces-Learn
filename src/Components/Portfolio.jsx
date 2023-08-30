@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Netflix Clone 🎉",
+    description: "Clone of the popular website Netflix. Built with html css and js.",
+    url: "https://github.com/halcyon-past/Bharat-Intern/tree/main/Netflix%20Clone",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Motion Detection and Tracking System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A motion detection and tracking system built using MERN stack along with Pir Sensor and NodeMCU.",
+    url: "https://github.com/halcyon-past/Motion-Detection",
   },
   {
-    title: "My Resume Site",
+    title: "Harem No Jutsu (Discord Bot)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A discord bot made to share interactive Anime GIFs in a fun way built using python.",
+    url: "https://github.com/halcyon-past/Harem-No-Jutsu",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Portfolio Website",
+    description: "My portfolio website built using HTML CSS and JS",
+    url: "https://aritro-saha.netlify.app/",
   },
 ];
 
